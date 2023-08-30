@@ -1,0 +1,22 @@
+2023-08-29 23:40:04,931.user_math_josiahrandleman.INFO ==================================================
+2023-08-29 23:40:04,931.user_math_josiahrandleman.INFO Today is 2023-08-29 at 11:40 PM
+2023-08-29 23:40:04,965.user_math_josiahrandleman.INFO Running on: nt Windows 10
+2023-08-29 23:40:04,966.user_math_josiahrandleman.INFO Python version:  3.11.4
+2023-08-29 23:40:04,966.user_math_josiahrandleman.INFO Python path: C:\Python311
+2023-08-29 23:40:04,966.user_math_josiahrandleman.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-29 23:40:04,967.user_math_josiahrandleman.INFO ==================================================
+2023-08-29 23:40:04,967.user_math_josiahrandleman.INFO Explore some functions in the math module
+2023-08-29 23:40:04,967.user_math_josiahrandleman.INFO math.comb(5,1) = 5
+2023-08-29 23:40:04,967.user_math_josiahrandleman.INFO math.perm(5,1) = 5
+2023-08-29 23:40:04,967.user_math_josiahrandleman.INFO --------------------------------------
+2023-08-29 23:40:04,967.user_math_josiahrandleman.INFO Area of Dataset (10, 10): 100
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO Area of Dataset (15, 15): 225
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO Area of Dataset (7, 9): 63
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO Area of Dataset (8, 12): 96
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO --------------------------------------
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO Potential fraudulent transaction detected! The product of the transaction amount and average spending is 50000, which exceeds the threshold of 40000.
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO --------------------------------------
+2023-08-29 23:40:04,968.user_math_josiahrandleman.INFO No frequency-based fraud detected. Product value is 2000.
+2023-08-29 23:40:04,969.user_math_josiahrandleman.INFO --------------------------------------
+2023-08-29 23:40:04,969.user_math_josiahrandleman.INFO Potential login-based fraud detected! Product value is 5000, which exceeds the threshold of 4000.
+2023-08-29 23:40:04,969.user_math_josiahrandleman.INFO --------------------------------------
