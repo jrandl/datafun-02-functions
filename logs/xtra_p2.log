@@ -1,0 +1,24 @@
+2023-08-27 17:00:55,885.xtra_p2.INFO ==================================================
+2023-08-27 17:00:55,885.xtra_p2.INFO Today is 2023-08-27 at 05:00 PM
+2023-08-27 17:00:55,924.xtra_p2.INFO Running on: nt Windows 10
+2023-08-27 17:00:55,925.xtra_p2.INFO Python version:  3.9.13
+2023-08-27 17:00:55,925.xtra_p2.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+2023-08-27 17:00:55,925.xtra_p2.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-27 17:00:55,925.xtra_p2.INFO ==================================================
+2023-08-27 17:00:55,925.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-27 17:00:55,926.xtra_p2.INFO RETURNING bearcat
+2023-08-27 17:00:55,926.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-27 17:00:55,926.xtra_p2.INFO RETURNING bearcat
+2023-08-27 17:00:55,926.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-27 17:00:55,926.xtra_p2.INFO RETURNING hello
+2023-08-27 17:00:55,926.xtra_p2.INFO ===========================================================
+2023-08-27 17:00:55,927.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-08-27 17:00:55,927.xtra_p2.INFO ===========================================================
+2023-08-27 17:00:55,940.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-27 17:00:55,940.xtra_p2.INFO RETURNING bearcat
+2023-08-27 17:00:55,942.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-27 17:00:55,942.xtra_p2.INFO RETURNING bearcat
+2023-08-27 17:00:55,944.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-27 17:00:55,944.xtra_p2.INFO RETURNING hello
+2023-08-27 17:00:55,954.xtra_p2.ERROR 8 tests failed!
+2023-08-27 17:00:55,954.xtra_p2.INFO Script complete. More info in the log file.
