@@ -1,0 +1,14 @@
+2023-08-30 00:58:45,814.numeric_fraud_series.INFO ==================================================
+2023-08-30 00:58:45,815.numeric_fraud_series.INFO Today is 2023-08-30 at 12:58 AM
+2023-08-30 00:58:45,815.numeric_fraud_series.INFO Running on: nt Windows 10
+2023-08-30 00:58:45,815.numeric_fraud_series.INFO Python version:  3.11.4
+2023-08-30 00:58:45,815.numeric_fraud_series.INFO Python path: C:\Python311
+2023-08-30 00:58:45,815.numeric_fraud_series.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-30 00:58:45,815.numeric_fraud_series.INFO ==================================================
+2023-08-30 00:58:45,816.numeric_fraud_series.INFO Created: NumericSeries with name=Transaction Amounts, units=USD, and 5 data points: [100, 200, 150, 50, 75], investigator=John Doe, fraud_count=2
+2023-08-30 00:58:45,816.numeric_fraud_series.INFO Count: 5
+2023-08-30 00:58:45,816.numeric_fraud_series.INFO Sum: 575
+2023-08-30 00:58:45,816.numeric_fraud_series.INFO Mean: 115.0
+2023-08-30 00:58:45,817.numeric_fraud_series.INFO Median: 100
+2023-08-30 00:58:45,817.numeric_fraud_series.INFO Count of Fraud: 2
+2023-08-30 00:58:45,817.numeric_fraud_series.INFO Fraud Percentage: 40.0%
