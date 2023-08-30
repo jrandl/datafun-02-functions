@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
     name1 = "Monday Temperatures"
     units1 = "F"
-    data1 = [55.8, 63.4, 72.4, 78, 76.3]
+    data1 = [45.8, 73.4, 73.4, 78, 76.3]
     loc = "Maryville MO"
 
     object1 = NumericWeatherSeries(name1, units1, data1, loc)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
   
     name2 = "Tuesday Temperatures"
     units2 = "F"
-    data2 = [66.2, 67.2, 55.8, 63.4, 72.4, 73.1, 76.3]
+    data2 = [64.2, 67.2, 52.8, 63.4, 71.4, 73.1, 76.3]
     loc2 = "Maryville MO"
 
     object2 = NumericWeatherSeries(name2, units2, data2, loc2)

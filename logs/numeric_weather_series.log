@@ -1,0 +1,28 @@
+2023-08-29 22:55:36,533.numeric_weather_series.INFO ==================================================
+2023-08-29 22:55:36,533.numeric_weather_series.INFO Today is 2023-08-29 at 10:55 PM
+2023-08-29 22:55:36,533.numeric_weather_series.INFO Running on: nt Windows 10
+2023-08-29 22:55:36,533.numeric_weather_series.INFO Python version:  3.9.13
+2023-08-29 22:55:36,534.numeric_weather_series.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+2023-08-29 22:55:36,534.numeric_weather_series.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-29 22:55:36,534.numeric_weather_series.INFO ==================================================
+2023-08-29 22:55:36,534.numeric_weather_series.INFO Created: NumericWeatherSeries with name=Monday Temperatures, units=F, location=Maryville MO, and 5 data points: [45.8, 73.4, 73.4, 78, 76.3]
+2023-08-29 22:55:36,534.numeric_weather_series.INFO Created: NumericWeatherSeries with name=Tuesday Temperatures, units=F, location=Maryville MO, and 7 data points: [64.2, 67.2, 52.8, 63.4, 71.4, 73.1, 76.3]
+2023-08-29 22:55:36,534.numeric_weather_series.INFO Created: NumericWeatherSeries with name=Wednesday Temperatures, units=F, location=Maryville MO, and 13 data points: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+2023-08-29 22:55:36,534.numeric_weather_series.INFO NumericWeatherSeries with name=Monday Temperatures, units=F, location=Maryville MO, and 5 data points: [45.8, 73.4, 73.4, 78, 76.3]
+2023-08-29 22:55:36,535.numeric_weather_series.INFO Count: 5
+2023-08-29 22:55:36,535.numeric_weather_series.INFO Sum: 346.90000000000003
+2023-08-29 22:55:36,535.numeric_weather_series.INFO Mean: 69.38000000000001
+2023-08-29 22:55:36,535.numeric_weather_series.INFO Median: 73.4
+2023-08-29 22:55:36,536.numeric_weather_series.INFO ------------------
+2023-08-29 22:55:36,536.numeric_weather_series.INFO NumericWeatherSeries with name=Tuesday Temperatures, units=F, location=Maryville MO, and 7 data points: [64.2, 67.2, 52.8, 63.4, 71.4, 73.1, 76.3]
+2023-08-29 22:55:36,536.numeric_weather_series.INFO Count: 7
+2023-08-29 22:55:36,536.numeric_weather_series.INFO Sum: 468.40000000000003
+2023-08-29 22:55:36,537.numeric_weather_series.INFO Mean: 66.91428571428573
+2023-08-29 22:55:36,537.numeric_weather_series.INFO Median: 67.2
+2023-08-29 22:55:36,538.numeric_weather_series.INFO ------------------
+2023-08-29 22:55:36,538.numeric_weather_series.INFO NumericWeatherSeries with name=Wednesday Temperatures, units=F, location=Maryville MO, and 13 data points: [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+2023-08-29 22:55:36,538.numeric_weather_series.INFO Count: 13
+2023-08-29 22:55:36,538.numeric_weather_series.INFO Sum: 936
+2023-08-29 22:55:36,538.numeric_weather_series.INFO Mean: 72.0
+2023-08-29 22:55:36,539.numeric_weather_series.INFO Median: 72
+2023-08-29 22:55:36,539.numeric_weather_series.INFO ------------------

@@ -126,15 +126,15 @@ if __name__ == "__main__":
     # -------------------------------------------------------------
     # Call some functions and execute code!
 
-    add_two(5,5)
+    add_two(7,7)
     add_triangle_list([5,5,5])
     add_any_using_args(2)
     add_any_using_args(2,2)
     add_any_using_args(2,2,2)
     add_any_using_args(2,2,2,2)
-    add_any_with_keyword_arguments_kwargs(a=8,b=2)
+    add_any_with_keyword_arguments_kwargs(a=9,b=4)
     add_any_with_keyword_arguments_kwargs(first=8,second=2, third=3)
-    add_any_with_keyword_arguments_kwargs(only=8)
+    add_any_with_keyword_arguments_kwargs(only=11)
 
     transform_using_keyword_args_with_default_values()
     transform_using_keyword_args_with_default_values(reverse=True)

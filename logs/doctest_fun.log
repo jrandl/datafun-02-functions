@@ -1,0 +1,52 @@
+2023-08-29 22:53:45,934.doctest_fun.INFO ==================================================
+2023-08-29 22:53:45,934.doctest_fun.INFO Today is 2023-08-29 at 10:53 PM
+2023-08-29 22:53:45,961.doctest_fun.INFO Running on: nt Windows 10
+2023-08-29 22:53:45,962.doctest_fun.INFO Python version:  3.9.13
+2023-08-29 22:53:45,962.doctest_fun.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+2023-08-29 22:53:45,963.doctest_fun.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-29 22:53:45,963.doctest_fun.INFO ==================================================
+2023-08-29 22:53:45,963.doctest_fun.INFO CALLING add_two(7,7)
+2023-08-29 22:53:45,964.doctest_fun.INFO RETURNING 14
+2023-08-29 22:53:45,964.doctest_fun.INFO CALLING add_triangle_list([5, 5, 5])
+2023-08-29 22:53:45,964.doctest_fun.INFO RETURNING 15
+2023-08-29 22:53:45,964.doctest_fun.INFO CALLING add_any_using_args((2,))
+2023-08-29 22:53:45,964.doctest_fun.INFO RETURNING 2
+2023-08-29 22:53:45,965.doctest_fun.INFO CALLING add_any_using_args((2, 2))
+2023-08-29 22:53:45,965.doctest_fun.INFO RETURNING 4
+2023-08-29 22:53:45,965.doctest_fun.INFO CALLING add_any_using_args((2, 2, 2))
+2023-08-29 22:53:45,965.doctest_fun.INFO RETURNING 6
+2023-08-29 22:53:45,965.doctest_fun.INFO CALLING add_any_using_args((2, 2, 2, 2))
+2023-08-29 22:53:45,966.doctest_fun.INFO RETURNING 8
+2023-08-29 22:53:45,966.doctest_fun.INFO CALLING add_any_with_keywords({'a': 9, 'b': 4})
+2023-08-29 22:53:45,966.doctest_fun.INFO RETURNING 13
+2023-08-29 22:53:45,966.doctest_fun.INFO CALLING add_any_with_keywords({'first': 8, 'second': 2, 'third': 3})
+2023-08-29 22:53:45,966.doctest_fun.INFO RETURNING 13
+2023-08-29 22:53:45,966.doctest_fun.INFO CALLING add_any_with_keywords({'only': 11})
+2023-08-29 22:53:45,966.doctest_fun.INFO RETURNING 11
+2023-08-29 22:53:45,968.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-29 22:53:45,968.doctest_fun.INFO RETURNING bearcat
+2023-08-29 22:53:45,968.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-29 22:53:45,968.doctest_fun.INFO RETURNING tacraeb
+2023-08-29 22:53:45,968.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-29 22:53:45,968.doctest_fun.INFO RETURNING olleh
+2023-08-29 22:53:45,968.doctest_fun.INFO ===========================================================
+2023-08-29 22:53:45,968.doctest_fun.INFO Running doctest.testmod() function to unit test our code
+2023-08-29 22:53:45,968.doctest_fun.INFO ===========================================================
+2023-08-29 22:53:45,972.doctest_fun.INFO CALLING add_two(1,2)
+2023-08-29 22:53:45,972.doctest_fun.INFO RETURNING 3
+2023-08-29 22:53:45,972.doctest_fun.INFO CALLING add_two(hello, world)
+2023-08-29 22:53:45,973.doctest_fun.INFO RETURNING hello world
+2023-08-29 22:53:45,973.doctest_fun.INFO CALLING add_triangle_list([3, 4, 5])
+2023-08-29 22:53:45,973.doctest_fun.INFO RETURNING 12
+2023-08-29 22:53:45,973.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-29 22:53:45,973.doctest_fun.INFO RETURNING bearcat
+2023-08-29 22:53:45,974.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-29 22:53:45,974.doctest_fun.INFO RETURNING tacraeb
+2023-08-29 22:53:45,974.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-29 22:53:45,974.doctest_fun.INFO RETURNING olleh
+2023-08-29 22:53:45,974.doctest_fun.INFO CALLING add_any_using_args((1, 1, 1, 1, 1, 1, 1, 1))
+2023-08-29 22:53:45,975.doctest_fun.INFO RETURNING 8
+2023-08-29 22:53:45,975.doctest_fun.INFO CALLING add_any_with_keywords({'a': 1, 'b': 2})
+2023-08-29 22:53:45,975.doctest_fun.INFO RETURNING 3
+2023-08-29 22:53:45,981.doctest_fun.INFO All tests passed!
+2023-08-29 22:53:45,981.doctest_fun.INFO Script complete. More info in the log file.
