@@ -1,0 +1,39 @@
+2023-08-30 00:39:55,373.user_easy_stats_josiahrandleman.INFO ==================================================
+2023-08-30 00:39:55,373.user_easy_stats_josiahrandleman.INFO Today is 2023-08-30 at 12:39 AM
+2023-08-30 00:39:55,398.user_easy_stats_josiahrandleman.INFO Running on: nt Windows 10
+2023-08-30 00:39:55,398.user_easy_stats_josiahrandleman.INFO Python version:  3.11.4
+2023-08-30 00:39:55,398.user_easy_stats_josiahrandleman.INFO Python path: C:\Python311
+2023-08-30 00:39:55,399.user_easy_stats_josiahrandleman.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-30 00:39:55,399.user_easy_stats_josiahrandleman.INFO ==================================================
+2023-08-30 00:39:55,400.user_easy_stats_josiahrandleman.INFO Range: 18.00
+2023-08-30 00:39:55,400.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,401.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,401.user_easy_stats_josiahrandleman.INFO Study Hours -> X Values [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+2023-08-30 00:39:55,401.user_easy_stats_josiahrandleman.INFO Exam Scores -> Y Values [65, 70, 75, 80, 85, 90, 92, 95, 98, 100]
+2023-08-30 00:39:55,401.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,402.user_easy_stats_josiahrandleman.INFO Descriptive statistics for exam scores:
+2023-08-30 00:39:55,402.user_easy_stats_josiahrandleman.INFO Mean: 85.00
+2023-08-30 00:39:55,402.user_easy_stats_josiahrandleman.INFO Median: 87.50
+2023-08-30 00:39:55,402.user_easy_stats_josiahrandleman.INFO Mode: 65.00
+2023-08-30 00:39:55,402.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,402.user_easy_stats_josiahrandleman.INFO Variance: 146.44
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO Standard Deviation: 12.10
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO Smallest Score: 65.00
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO Largest Score: 100.00
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO Range: 35.00
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO Descriptive statistics for study hours:
+2023-08-30 00:39:55,403.user_easy_stats_josiahrandleman.INFO Mean: 11.00
+2023-08-30 00:39:55,404.user_easy_stats_josiahrandleman.INFO Median: 11.00
+2023-08-30 00:39:55,404.user_easy_stats_josiahrandleman.INFO Mode: 2
+2023-08-30 00:39:55,405.user_easy_stats_josiahrandleman.INFO Variance: 36.67
+2023-08-30 00:39:55,405.user_easy_stats_josiahrandleman.INFO Standard Deviation: 6.06
+2023-08-30 00:39:55,405.user_easy_stats_josiahrandleman.INFO Smallest Hours: 2.00
+2023-08-30 00:39:55,405.user_easy_stats_josiahrandleman.INFO Largest Hours: 20.00
+2023-08-30 00:39:55,405.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,406.user_easy_stats_josiahrandleman.INFO Correlation between study hours and study hours = 1.0
+2023-08-30 00:39:55,406.user_easy_stats_josiahrandleman.INFO Correlation between study hours and exam scores = 0.9886280324217449
+2023-08-30 00:39:55,406.user_easy_stats_josiahrandleman.INFO ---------------------------------------
+2023-08-30 00:39:55,406.user_easy_stats_josiahrandleman.INFO Slope = 1.9757575757575758
+2023-08-30 00:39:55,406.user_easy_stats_josiahrandleman.INFO Intercept = 63.266666666666666
+2023-08-30 00:39:55,406.user_easy_stats_josiahrandleman.INFO ---------------------------------------
