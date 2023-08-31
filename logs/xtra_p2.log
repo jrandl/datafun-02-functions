@@ -1,24 +1,28 @@
-2023-08-27 17:00:55,885.xtra_p2.INFO ==================================================
-2023-08-27 17:00:55,885.xtra_p2.INFO Today is 2023-08-27 at 05:00 PM
-2023-08-27 17:00:55,924.xtra_p2.INFO Running on: nt Windows 10
-2023-08-27 17:00:55,925.xtra_p2.INFO Python version:  3.9.13
-2023-08-27 17:00:55,925.xtra_p2.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
-2023-08-27 17:00:55,925.xtra_p2.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
-2023-08-27 17:00:55,925.xtra_p2.INFO ==================================================
-2023-08-27 17:00:55,925.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
-2023-08-27 17:00:55,926.xtra_p2.INFO RETURNING bearcat
-2023-08-27 17:00:55,926.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
-2023-08-27 17:00:55,926.xtra_p2.INFO RETURNING bearcat
-2023-08-27 17:00:55,926.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
-2023-08-27 17:00:55,926.xtra_p2.INFO RETURNING hello
-2023-08-27 17:00:55,926.xtra_p2.INFO ===========================================================
-2023-08-27 17:00:55,927.xtra_p2.INFO Running doctest.testmod() function to unit test our code
-2023-08-27 17:00:55,927.xtra_p2.INFO ===========================================================
-2023-08-27 17:00:55,940.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
-2023-08-27 17:00:55,940.xtra_p2.INFO RETURNING bearcat
-2023-08-27 17:00:55,942.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
-2023-08-27 17:00:55,942.xtra_p2.INFO RETURNING bearcat
-2023-08-27 17:00:55,944.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
-2023-08-27 17:00:55,944.xtra_p2.INFO RETURNING hello
-2023-08-27 17:00:55,954.xtra_p2.ERROR 8 tests failed!
-2023-08-27 17:00:55,954.xtra_p2.INFO Script complete. More info in the log file.
+2023-08-30 23:39:40,183.xtra_p2.INFO ==================================================
+2023-08-30 23:39:40,184.xtra_p2.INFO Today is 2023-08-30 at 11:39 PM
+2023-08-30 23:39:40,212.xtra_p2.INFO Running on: nt Windows 10
+2023-08-30 23:39:40,213.xtra_p2.INFO Python version:  3.11.4
+2023-08-30 23:39:40,213.xtra_p2.INFO Python path: C:\Python311
+2023-08-30 23:39:40,213.xtra_p2.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-30 23:39:40,213.xtra_p2.INFO ==================================================
+2023-08-30 23:39:40,214.xtra_p2.INFO ===========================================================
+2023-08-30 23:39:40,214.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-08-30 23:39:40,215.xtra_p2.INFO ===========================================================
+2023-08-30 23:39:40,219.xtra_p2.INFO CALLING sum_two(x=1, y=2)
+2023-08-30 23:39:40,219.xtra_p2.INFO RETURNING 3
+2023-08-30 23:39:40,219.xtra_p2.INFO CALLING sum_two(x=hello, y= world)
+2023-08-30 23:39:40,219.xtra_p2.INFO RETURNING hello world
+2023-08-30 23:39:40,220.xtra_p2.INFO CALLING sum_rectangle_list(rect_list=[1, 1, 3, 3])
+2023-08-30 23:39:40,220.xtra_p2.INFO RETURNING 8
+2023-08-30 23:39:40,220.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-08-30 23:39:40,221.xtra_p2.INFO RETURNING bea
+2023-08-30 23:39:40,221.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-08-30 23:39:40,221.xtra_p2.INFO RETURNING aeb
+2023-08-30 23:39:40,221.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-08-30 23:39:40,222.xtra_p2.INFO RETURNING leh
+2023-08-30 23:39:40,222.xtra_p2.INFO CALLING sum_any_using_args(args=(1, 1, 1, 2))
+2023-08-30 23:39:40,222.xtra_p2.INFO RETURNING 5
+2023-08-30 23:39:40,222.xtra_p2.INFO CALLING sum_any_with_keyword_arguments_kwargs(kwargs={'a': 1, 'b': 2, 'c': 3})
+2023-08-30 23:39:40,222.xtra_p2.INFO RETURNING 6
+2023-08-30 23:39:40,226.xtra_p2.INFO All tests passed!
+2023-08-30 23:39:40,226.xtra_p2.INFO Script complete. More info in the log file.
