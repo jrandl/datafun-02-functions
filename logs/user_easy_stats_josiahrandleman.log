@@ -1,33 +1,33 @@
-2023-08-31 00:03:50,727.user_easy_stats_josiahrandleman.INFO ==================================================
-2023-08-31 00:03:50,728.user_easy_stats_josiahrandleman.INFO Today is 2023-08-31 at 12:03 AM
-2023-08-31 00:03:50,759.user_easy_stats_josiahrandleman.INFO Running on: nt Windows 10
-2023-08-31 00:03:50,759.user_easy_stats_josiahrandleman.INFO Python version:  3.11.4
-2023-08-31 00:03:50,759.user_easy_stats_josiahrandleman.INFO Python path: C:\Python311
-2023-08-31 00:03:50,759.user_easy_stats_josiahrandleman.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
-2023-08-31 00:03:50,760.user_easy_stats_josiahrandleman.INFO ==================================================
-2023-08-31 00:03:50,771.user_easy_stats_josiahrandleman.INFO uni_data = [1200, 1500, 1300, 1700, 1450, 1600, 1550, 1800, 1750, 1900]
-2023-08-31 00:03:50,772.user_easy_stats_josiahrandleman.INFO mean   = 1575.00
-2023-08-31 00:03:50,772.user_easy_stats_josiahrandleman.INFO median = 1575.00
-2023-08-31 00:03:50,773.user_easy_stats_josiahrandleman.INFO mode   = 1200.00
-2023-08-31 00:03:50,773.user_easy_stats_josiahrandleman.INFO var    = 49027.78
-2023-08-31 00:03:50,773.user_easy_stats_josiahrandleman.INFO stdev  = 221.42
-2023-08-31 00:03:50,774.user_easy_stats_josiahrandleman.INFO lowest = 1200.00
-2023-08-31 00:03:50,774.user_easy_stats_josiahrandleman.INFO highest= 1900.00
-2023-08-31 00:03:50,775.user_easy_stats_josiahrandleman.INFO range= 700.00
-2023-08-31 00:03:50,777.user_easy_stats_josiahrandleman.WARNING Correlation requires Python version 3.10 or greater.
-2023-08-31 00:03:50,778.user_easy_stats_josiahrandleman.WARNING Your version is 3.11
-2023-08-31 00:03:50,779.user_easy_stats_josiahrandleman.INFO Here's some time series data:
-2023-08-31 00:03:50,779.user_easy_stats_josiahrandleman.INFO xtimes:[1, 2, 3, 4, 5]
-2023-08-31 00:03:50,779.user_easy_stats_josiahrandleman.INFO yvalues:[1000, 2000, 3000, 4000, 5000]
-2023-08-31 00:03:50,779.user_easy_stats_josiahrandleman.INFO correlation between xtimes and xtimes = 1.00
-2023-08-31 00:03:50,780.user_easy_stats_josiahrandleman.INFO correlation between xtimes and yvalues = 1.00
-2023-08-31 00:03:50,780.user_easy_stats_josiahrandleman.INFO Here's some bivariant data (2 variables, together):
-2023-08-31 00:03:50,781.user_easy_stats_josiahrandleman.INFO x:[1, 2, 3, 4, 5]
-2023-08-31 00:03:50,781.user_easy_stats_josiahrandleman.INFO y:[1200, 2700, 4000, 5700, 7500]
-2023-08-31 00:03:50,781.user_easy_stats_josiahrandleman.INFO Calculate the slope and intercept of a best fit straight line:
-2023-08-31 00:03:50,781.user_easy_stats_josiahrandleman.INFO    slope = 1560.00
-2023-08-31 00:03:50,782.user_easy_stats_josiahrandleman.INFO    intercept = -460.00
-2023-08-31 00:03:50,782.user_easy_stats_josiahrandleman.INFO Let's use our best fit line to PREDICT a future value.
-2023-08-31 00:03:50,782.user_easy_stats_josiahrandleman.INFO    At future x = 200,
-2023-08-31 00:03:50,782.user_easy_stats_josiahrandleman.INFO    we predict the value of y will be 311540.
-2023-08-31 00:03:50,783.user_easy_stats_josiahrandleman.INFO How'd we do? Does this make sense given the data?
+2023-08-31 22:41:46,725.user_easy_stats_josiahrandleman.INFO ==================================================
+2023-08-31 22:41:46,725.user_easy_stats_josiahrandleman.INFO Today is 2023-08-31 at 10:41 PM
+2023-08-31 22:41:46,763.user_easy_stats_josiahrandleman.INFO Running on: nt Windows 10
+2023-08-31 22:41:46,763.user_easy_stats_josiahrandleman.INFO Python version:  3.11.4
+2023-08-31 22:41:46,763.user_easy_stats_josiahrandleman.INFO Python path: C:\Python311
+2023-08-31 22:41:46,763.user_easy_stats_josiahrandleman.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-31 22:41:46,763.user_easy_stats_josiahrandleman.INFO ==================================================
+2023-08-31 22:41:46,772.user_easy_stats_josiahrandleman.INFO uni_data = [1200, 1500, 1300, 1700, 1450, 1600, 1550, 1800, 1750, 1900]
+2023-08-31 22:41:46,774.user_easy_stats_josiahrandleman.INFO mean   = 1575.00
+2023-08-31 22:41:46,774.user_easy_stats_josiahrandleman.INFO median = 1575.00
+2023-08-31 22:41:46,774.user_easy_stats_josiahrandleman.INFO mode   = 1200.00
+2023-08-31 22:41:46,775.user_easy_stats_josiahrandleman.INFO var    = 49027.78
+2023-08-31 22:41:46,775.user_easy_stats_josiahrandleman.INFO stdev  = 221.42
+2023-08-31 22:41:46,775.user_easy_stats_josiahrandleman.INFO lowest = 1200.00
+2023-08-31 22:41:46,775.user_easy_stats_josiahrandleman.INFO highest= 1900.00
+2023-08-31 22:41:46,775.user_easy_stats_josiahrandleman.INFO range= 700.00
+2023-08-31 22:41:46,778.user_easy_stats_josiahrandleman.WARNING Correlation requires Python version 3.10 or greater.
+2023-08-31 22:41:46,778.user_easy_stats_josiahrandleman.WARNING Your version is 3.11
+2023-08-31 22:41:46,779.user_easy_stats_josiahrandleman.INFO Here's some time series data:
+2023-08-31 22:41:46,779.user_easy_stats_josiahrandleman.INFO xtimes:[1, 2, 3, 4, 5]
+2023-08-31 22:41:46,779.user_easy_stats_josiahrandleman.INFO yvalues:[1000, 2000, 3000, 4000, 5000]
+2023-08-31 22:41:46,779.user_easy_stats_josiahrandleman.INFO correlation between xtimes and xtimes = 1.00
+2023-08-31 22:41:46,780.user_easy_stats_josiahrandleman.INFO correlation between xtimes and yvalues = 1.00
+2023-08-31 22:41:46,780.user_easy_stats_josiahrandleman.INFO Here's some bivariant data (2 variables, together):
+2023-08-31 22:41:46,780.user_easy_stats_josiahrandleman.INFO x:[1, 2, 3, 4, 5]
+2023-08-31 22:41:46,780.user_easy_stats_josiahrandleman.INFO y:[1200, 2700, 4000, 5700, 7500]
+2023-08-31 22:41:46,781.user_easy_stats_josiahrandleman.INFO Calculate the slope and intercept of a best fit straight line:
+2023-08-31 22:41:46,781.user_easy_stats_josiahrandleman.INFO    slope = 1560.00
+2023-08-31 22:41:46,781.user_easy_stats_josiahrandleman.INFO    intercept = -460.00
+2023-08-31 22:41:46,781.user_easy_stats_josiahrandleman.INFO Let's use our best fit line to PREDICT a future value.
+2023-08-31 22:41:46,781.user_easy_stats_josiahrandleman.INFO    At future x = 200,
+2023-08-31 22:41:46,782.user_easy_stats_josiahrandleman.INFO    we predict the value of y will be 311540.
+2023-08-31 22:41:46,782.user_easy_stats_josiahrandleman.INFO How'd we do? Does this make sense given the data?

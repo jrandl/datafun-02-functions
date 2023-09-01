@@ -1,0 +1,14 @@
+2023-08-31 22:45:28,247.numeric_fraud_series_josiahrandleman.INFO ==================================================
+2023-08-31 22:45:28,248.numeric_fraud_series_josiahrandleman.INFO Today is 2023-08-31 at 10:45 PM
+2023-08-31 22:45:28,248.numeric_fraud_series_josiahrandleman.INFO Running on: nt Windows 10
+2023-08-31 22:45:28,248.numeric_fraud_series_josiahrandleman.INFO Python version:  3.11.4
+2023-08-31 22:45:28,249.numeric_fraud_series_josiahrandleman.INFO Python path: C:\Python311
+2023-08-31 22:45:28,249.numeric_fraud_series_josiahrandleman.INFO Working dir: C:\Users\Josiah Randleman\Documents\Northwest\datafun-02-functions
+2023-08-31 22:45:28,249.numeric_fraud_series_josiahrandleman.INFO ==================================================
+2023-08-31 22:45:28,250.numeric_fraud_series_josiahrandleman.INFO Created: NumericSeries with name=Transaction Amounts, units=USD, and 5 data points: [100, 200, 150, 50, 75], investigator=John Doe, fraud_count=2
+2023-08-31 22:45:28,250.numeric_fraud_series_josiahrandleman.INFO Count: 5
+2023-08-31 22:45:28,250.numeric_fraud_series_josiahrandleman.INFO Sum: 575
+2023-08-31 22:45:28,251.numeric_fraud_series_josiahrandleman.INFO Mean: 115.0
+2023-08-31 22:45:28,251.numeric_fraud_series_josiahrandleman.INFO Median: 100
+2023-08-31 22:45:28,251.numeric_fraud_series_josiahrandleman.INFO Count of Fraud: 2
+2023-08-31 22:45:28,251.numeric_fraud_series_josiahrandleman.INFO Fraud Percentage: 40.0%
